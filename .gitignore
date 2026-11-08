@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# PyInstaller output
+build/
+dist/
+*.spec
+
+# local helper
+commit_message.txt
+
+# OS / editors
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
